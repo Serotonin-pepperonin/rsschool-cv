@@ -1,2 +1,2 @@
 # rsschool-cv
-https://serotonin-pepperonin.github.io/rsschool-cv/cv
+https://serotonin-pepperonin.github.io/rsschool-cv/
